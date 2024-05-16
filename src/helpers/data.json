@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+       "imagen":"campera1.jpg",
+        "producto": " Montery Jack",
+        "categoria": "Camperas",
+        "precio": 5595,
+        "stock": 10
+        
+    },
+    {
+        "id": 2,
+        "imagen": "campera2.jpg",
+        "producto": "Fire Buns",
+        "categoria": "Camperas",
+        "precio": 2508,
+        "stock": 10
+        
+    },
+    {
+        "id": 3,
+        "imagen": "campera3.jpg",
+        "producto": " Oatmeal Rasin",
+        "categoria": "Camperas",
+        "precio": 7229,
+        "stock": 10
+        
+    },
+    {
+        "id": 4,
+        "imagen": "campera4.jpg",
+        "producto": "Dc mood",
+        "categoria": "Camperas",
+        "precio": 1174,
+        "stock": 10
+        
+    },
+    {
+        "id": 5,
+        "imagen": "buzo1.jpg",
+        "producto": "Tabl One",
+        "categoria": "Buzos",
+        "precio": 7547,
+        "stock": 10
+        
+    },
+    {
+        "id": 6,
+        "imagen": "jeans1.jpeg",
+        "producto": "Sponge ",
+        "categoria": "Jeans",
+        "precio": 9093,
+        "stock": 10
+        
+    },
+    {
+        "id": 7,
+        "imagen": "jeans2.jpg",
+        "producto": "Yuliet ",
+        "categoria": "Jeans",
+        "precio": 6405,
+        "stock": 10
+        
+    },
+    {
+        "id": 8,
+        "imagen": "jeans3.jpg",
+        "producto": "Compound ",
+        "categoria": "Jeans",
+        "precio": 4733,
+        "stock": 10
+        
+    },
+    {
+        "id": 9,
+        "imagen": "jeans4.jpg",
+        "producto": "Jogeer",
+        "categoria": "Jeans",
+        "precio": 7639,
+        "stock": 10
+        
+    },
+    {
+        "id": 10,
+        "imagen": "jeans5.jpg",
+        "producto": "Cargo",
+        "categoria": "Jeans",
+        "precio": 9200,
+        "stock": 10
+        
+    },
+    {
+        "id": 11,
+        "imagen": "remera1.jpg",
+        "producto": "Fenngreek ",
+        "categoria": "Remeras",
+        "precio": 5025,
+        "stock": 10
+        
+    },
+    {
+        "id": 12,
+        "imagen": "remera2.jpg",
+        "producto": "Leek",
+        "categoria": "Remeras",
+        "precio": 1908,
+        "stock": 10
+        
+    },
+    {
+        "id": 13,
+        "imagen": "remera3.jpg",
+        "producto": "Good Things",
+        "categoria": "Remeras",
+        "precio": 9932,
+        "stock": 10
+        
+    },
+    {
+        "id": 14,
+        "imagen": "remera4.jpg",
+        "producto": "Break The Rules",
+        "categoria": "Remeras",
+        "precio": 791,
+        "stock": 10
+        
+    },
+    {
+        "id": 15,
+        "imagen": "remera5.jpg",
+        "producto": "Zero",
+        "categoria": "Remeras",
+        "precio": 2863,
+        "stock": 10
+        
+    },
+    {
+        "id": 16,
+        "imagen": "buzo2.jpg",
+        "producto": "Make",
+        "categoria": "Buzos",
+        "precio": 5643,
+        "stock": 10
+        
+    },
+    {
+        "id": 17,
+        "imagen": "buzo3.jpg",
+        "producto": "Trust",
+        "categoria": "Buzos",
+        "precio": 4433,
+        "stock": 10
+        
+    },
+    {
+        "id": 18,
+        "imagen": "buzo4.jpg",
+        "producto": "New Balance",
+        "categoria": "Buzos",
+        "precio": 2432,
+        "stock": 10
+        
+    },
+    {
+        "id": 19,
+        "imagen": "buzo5.jpg",
+        "producto": "New York",
+        "categoria": "Buzos",
+        "precio": 5900,
+        "stock": 10
+        
+    },
+    {
+        "id": 20,
+        "imagen": "campera5.jpg",
+        "producto": "Fatal",
+        "categoria": "Camperas",
+        "precio": 4334,
+        "stock": 10
+        
+    }
+]
